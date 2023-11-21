@@ -1,5 +1,5 @@
 // TODO: add your own access token
-mapboxgl.accessToken = 'pk.eyJ1Ijoic3RsNDAzNjEiLCJhIjoiY2xwNjN6N3NoMW10OTJpcWl1Zmp2c3NrbiJ9.kb_l1ivAUzaZWK9FiL_kbA';
+mapboxgl.accessToken = 'REPLACE_KEY';
 
 // This is the map instance
 let map = new mapboxgl.Map({
